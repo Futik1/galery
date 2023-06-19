@@ -1,0 +1,13 @@
+{
+    "authors": [
+        {
+            "name": "EgorkaEK"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Photos\\": ""
+        }
+    }
+}
